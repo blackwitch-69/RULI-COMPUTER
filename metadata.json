@@ -1,0 +1,6 @@
+{
+  "name": "Ruli Computer - Spesialis Servis & Repair VGA / Kartu Grafis",
+  "description": "Layanan servis profesional micro-soldering VGA/GPU, penggantian chip VRAM, perbaikan short circuit, konektor 12VHPWR, portofolio kasus perbaikan, dan sistem booking online.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
